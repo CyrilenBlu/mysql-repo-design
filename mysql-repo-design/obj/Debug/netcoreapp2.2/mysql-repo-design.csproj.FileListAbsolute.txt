@@ -1,0 +1,15 @@
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\bin\Debug\netcoreapp2.2\mysql-repo-design.dll.config
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\bin\Debug\netcoreapp2.2\mysql-repo-design.deps.json
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\bin\Debug\netcoreapp2.2\mysql-repo-design.runtimeconfig.json
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\bin\Debug\netcoreapp2.2\mysql-repo-design.runtimeconfig.dev.json
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\bin\Debug\netcoreapp2.2\mysql-repo-design.dll
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\bin\Debug\netcoreapp2.2\mysql-repo-design.pdb
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.csprojAssemblyReference.cache
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.csproj.CoreCompileInputs.cache
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.RazorAssemblyInfo.cache
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.RazorAssemblyInfo.cs
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.AssemblyInfoInputs.cache
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.AssemblyInfo.cs
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.RazorTargetAssemblyInfo.cache
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.dll
+C:\Users\Luke\RiderProjects\mysql-repo-design\mysql-repo-design\obj\Debug\netcoreapp2.2\mysql-repo-design.pdb
